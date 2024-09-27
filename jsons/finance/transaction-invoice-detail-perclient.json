@@ -1,0 +1,37 @@
+[
+  {
+    "transaction_id": "a2d7e7e0-4c35-4fae-b29e-0b70c77942df",
+    "invoice_number": 112233,
+    "date": "2024-09-22T12:00:00Z",
+    "due_date": "2024-10-02T12:00:00Z",
+    "amount_dc": 1450.75,
+    "due_by_days": "P10D",
+    "status": "paid",
+    "is_due": false,
+    "pdf_file": "invoice_112233.pdf"
+  },
+  {
+    "transaction_id": "57a4e6a3-6c45-4e84-9b2f-52f58e82c3d7",
+    "invoice_number": 445566,
+    "date": "2024-09-18T09:30:00Z",
+    "due_date": "2024-09-28T09:30:00Z",
+    "amount_dc": 3200.00,
+    "due_by_days": "P6D",
+    "status": "pending",
+    "is_due": true,
+    "pdf_file": null
+  },
+  {
+    "transaction_id": "34b36f6d-8a56-4e1d-b67a-32a549c8c3ff",
+    "invoice_number": 778899,
+    "date": "2024-09-10T15:45:00Z",
+    "due_date": "2024-09-20T15:45:00Z",
+    "amount_dc": 875.30,
+    "due_by_days": "P-2D",
+    "status": "paid",
+    "is_due": true,
+    "pdf_file": "invoice_778899.pdf"
+  }
+]
+
+

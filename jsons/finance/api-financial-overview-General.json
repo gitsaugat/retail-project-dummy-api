@@ -1,0 +1,25 @@
+{
+  "total_unique_clients_from_invoices": 11,
+  "total_outstanding_invoices_count": 20,
+  "total_outstanding_amount": 15000.00,
+  "total_overdue_clients_count": 17,
+  "total_overdue_invoices_count": 18,
+  "total_overdue_amount": 13000.00,
+  "overdue_invoice_buckets_count": {
+    "overdue_0_10": 3,
+    "overdue_11_20": 8,
+    "overdue_21_30": 6,
+    "overdue_31_60": 3,
+    "overdue_61_plus": 4
+  },
+  "overdue_invoice_buckets_amount": {
+    "overdue_0_10_amount": 1000.919999999998,
+    "overdue_11_20_amount": 1500.13999999996,
+    "overdue_21_30_amount": 2000.250000000001,
+    "overdue_31_60_amount": 4000.840000000004,
+    "overdue_61_plus_amount": 3500.4700000004
+  },
+  "total_unique_clients_with_unbooked_transactions": 5,
+  "total_unbooked_transactions_count": 5,
+  "total_unbooked_transactions_amount": -1600
+}

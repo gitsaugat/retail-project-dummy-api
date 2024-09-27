@@ -1,0 +1,232 @@
+[
+  {
+    "account_code": "500004",
+    "account_name": "dummy name 1",
+    "total_outstanding": 287.15,
+    "invoice_count_outstanding": 1,
+    "latest_invoice": {
+      "invoice_number": 22000330,
+      "date": "2022-05-31T00:00:00Z",
+      "due_date": "2022-06-15T00:00:00Z",
+      "amount_dc": 287.15
+    },
+    "payment_term": 15,
+    "total_overdue_invoices_count": 1,
+    "total_overdue_amount": 287.15,
+    "latest_transaction_date": null,
+    "latest_amount": null,
+    "outstanding_oldest_invoice": {
+      "invoice_number": 22000330,
+      "invoice_date": "2022-05-31T00:00:00Z"
+    },
+    "total_unbooked_amount": 0,
+    "unbooked_count": 0
+  },
+  {
+    "account_code": "10000028",
+    "account_name": "dummy name 2)",
+    "total_outstanding": 0,
+    "invoice_count_outstanding": 0,
+    "latest_invoice": {
+      "invoice_number": 202400102,
+      "date": "2022-01-23T00:00:00Z",
+      "due_date": "2022-02-21T00:00:00Z",
+      "amount_dc": 560.7
+    },
+    "payment_term": 29,
+    "total_overdue_invoices_count": 0,
+    "total_overdue_amount": 0,
+    "latest_transaction_date": "2022-02-24T00:00:00Z",
+    "latest_amount": -560.7,
+    "outstanding_oldest_invoice": {
+      "invoice_number": null,
+      "invoice_date": null
+    },
+    "total_unbooked_amount": 0,
+    "unbooked_count": 0
+  },
+  {
+    "account_code": "50013",
+    "account_name": "dummy name 3",
+    "total_outstanding": 27604.95,
+    "invoice_count_outstanding": 37,
+    "latest_invoice": {
+      "invoice_number": 23009032,
+      "date": "2024-09-15T00:00:00Z",
+      "due_date": "2024-09-22T00:00:00Z",
+      "amount_dc": 171.48
+    },
+    "payment_term": 7,
+    "total_overdue_invoices_count": 36,
+    "total_overdue_amount": 27433.47,
+    "latest_transaction_date": "2024-08-07T00:00:00Z",
+    "latest_amount": -1644.63,
+    "outstanding_oldest_invoice": {
+      "invoice_number": 2019203155,
+      "invoice_date": "2019-11-24T00:00:00Z"
+    },
+    "total_unbooked_amount": 0,
+    "unbooked_count": 0
+  },
+  {
+    "account_code": "50021",
+    "account_name": "dummy name 4",
+    "total_outstanding": 0,
+    "invoice_count_outstanding": 0,
+    "latest_invoice": {
+      "invoice_number": 2020326,
+      "date": "2020-02-23T00:00:00Z",
+      "due_date": "2020-03-10T00:00:00Z",
+      "amount_dc": 266.31
+    },
+    "payment_term": 16,
+    "total_overdue_invoices_count": 0,
+    "total_overdue_amount": 0,
+    "latest_transaction_date": "2020-04-01T00:00:00Z",
+    "latest_amount": -1173.86,
+    "outstanding_oldest_invoice": {
+      "invoice_number": null,
+      "invoice_date": null
+    },
+    "total_unbooked_amount": 0,
+    "unbooked_count": 0
+  },
+  {
+    "account_code": "50001",
+    "account_name": "dummy name 5",
+    "total_outstanding": 2054.47,
+    "invoice_count_outstanding": 3,
+    "latest_invoice": {
+      "invoice_number": 23009052,
+      "date": "2024-09-15T00:00:00Z",
+      "due_date": "2024-09-22T00:00:00Z",
+      "amount_dc": 808.59
+    },
+    "payment_term": 7,
+    "total_overdue_invoices_count": 2,
+    "total_overdue_amount": 1245.8799999999999,
+    "latest_transaction_date": "2024-09-11T00:00:00Z",
+    "latest_amount": -120.3,
+    "outstanding_oldest_invoice": {
+      "invoice_number": 23008897,
+      "invoice_date": "2024-09-01T00:00:00Z"
+    },
+    "total_unbooked_amount": 0,
+    "unbooked_count": 0
+  },
+  {
+    "account_code": "10000011",
+    "account_name": "dummy name 6",
+    "total_outstanding": 3039.15,
+    "invoice_count_outstanding": 5,
+    "latest_invoice": {
+      "invoice_number": 23009039,
+      "date": "2024-09-15T00:00:00Z",
+      "due_date": "2024-09-22T00:00:00Z",
+      "amount_dc": 1613.38
+    },
+    "payment_term": 7,
+    "total_overdue_invoices_count": 4,
+    "total_overdue_amount": 1425.7700000000004,
+    "latest_transaction_date": "2024-09-17T00:00:00Z",
+    "latest_amount": -2018.29,
+    "outstanding_oldest_invoice": {
+      "invoice_number": 23008719,
+      "invoice_date": "2024-08-18T00:00:00Z"
+    },
+    "total_unbooked_amount": -2018.29,
+    "unbooked_count": 1
+  },
+  {
+    "account_code": "10248",
+    "account_name": "dummy name 7",
+    "total_outstanding": 0,
+    "invoice_count_outstanding": 0,
+    "latest_invoice": {
+      "invoice_number": 23007042,
+      "date": "2024-03-24T00:00:00Z",
+      "due_date": "2024-03-31T00:00:00Z",
+      "amount_dc": 175.22
+    },
+    "payment_term": 7,
+    "total_overdue_invoices_count": 0,
+    "total_overdue_amount": 0,
+    "latest_transaction_date": "2024-04-19T00:00:00Z",
+    "latest_amount": -175.22,
+    "outstanding_oldest_invoice": {
+      "invoice_number": null,
+      "invoice_date": null
+    },
+    "total_unbooked_amount": 0,
+    "unbooked_count": 0
+  },
+  {
+    "account_code": "10109",
+    "account_name": "dummy name 8",
+    "total_outstanding": 0,
+    "invoice_count_outstanding": 0,
+    "latest_invoice": {
+      "invoice_number": 22001768,
+      "date": "2022-10-31T00:00:00Z",
+      "due_date": "2022-11-15T00:00:00Z",
+      "amount_dc": 683.69
+    },
+    "payment_term": 15,
+    "total_overdue_invoices_count": 0,
+    "total_overdue_amount": 0,
+    "latest_transaction_date": "2023-01-17T00:00:00Z",
+    "latest_amount": -683.69,
+    "outstanding_oldest_invoice": {
+      "invoice_number": null,
+      "invoice_date": null
+    },
+    "total_unbooked_amount": 0,
+    "unbooked_count": 0
+  },
+  {
+    "account_code": "50045",
+    "account_name": "dummy name 9",
+    "total_outstanding": 0,
+    "invoice_count_outstanding": 0,
+    "latest_invoice": {
+      "invoice_number": 22002101,
+      "date": "2022-12-04T00:00:00Z",
+      "due_date": "2022-12-19T00:00:00Z",
+      "amount_dc": 430.28
+    },
+    "payment_term": 15,
+    "total_overdue_invoices_count": 0,
+    "total_overdue_amount": 0,
+    "latest_transaction_date": "2022-12-12T00:00:00Z",
+    "latest_amount": -565.75,
+    "outstanding_oldest_invoice": {
+      "invoice_number": null,
+      "invoice_date": null
+    },
+    "total_unbooked_amount": 0,
+    "unbooked_count": 0
+  },
+  {
+    "account_code": "10132",
+    "account_name": "dummy name 10",
+    "total_outstanding": 10585.930000000002,
+    "invoice_count_outstanding": 69,
+    "latest_invoice": {
+      "invoice_number": 23009056,
+      "date": "2024-09-15T00:00:00Z",
+      "due_date": "2024-09-20T00:00:00Z",
+      "amount_dc": -73.14
+    },
+    "payment_term": 5,
+    "total_overdue_invoices_count": 67,
+    "total_overdue_amount": 9788.809999999994,
+    "latest_transaction_date": "2024-09-05T00:00:00Z",
+    "latest_amount": -2040.01,
+    "outstanding_oldest_invoice": {
+      "invoice_number": 24010001,
+      "invoice_date": "2024-05-07T00:00:00Z"
+    },
+    "total_unbooked_amount": -4598.39,
+    "unbooked_count": 3
+  }
+]

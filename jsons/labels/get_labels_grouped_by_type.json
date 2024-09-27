@@ -1,0 +1,107 @@
+[
+  {
+    "label_type": "Client_Level_Label",
+    "labels": [
+      {
+        "label_id": 1,
+        "label_name": "Urgent",
+        "label_color": "#FF5733"
+      },
+      {
+        "label_id": 3,
+        "label_name": "High Priority",
+        "label_color": "#FF0000"
+      },
+      {
+        "label_id": 5,
+        "label_name": "VIP",
+        "label_color": "#FFD700"
+      },
+      {
+        "label_id": 7,
+        "label_name": "Follow-up Required",
+        "label_color": "#00FF00"
+      }
+    ]
+  },
+  {
+    "label_type": "Invoice_Level_Label",
+    "labels": [
+      {
+        "label_id": 2,
+        "label_name": "Review",
+        "label_color": "#FFFF00"
+      },
+      {
+        "label_id": 6,
+        "label_name": "Pending Approval",
+        "label_color": "#FF4500"
+      },
+      {
+        "label_id": 8,
+        "label_name": "Paid",
+        "label_color": "#008000"
+      }
+    ]
+  },
+  {
+    "label_type": "Product_Level_Label",
+    "labels": [
+      {
+        "label_id": 4,
+        "label_name": "Discontinued",
+        "label_color": "#800000"
+      },
+      {
+        "label_id": 9,
+        "label_name": "New Arrival",
+        "label_color": "#FF69B4"
+      },
+      {
+        "label_id": 10,
+        "label_name": "Best Seller",
+        "label_color": "#1E90FF"
+      }
+    ]
+  },
+  {
+    "label_type": "Bank_Transaction_Level_Label",
+    "labels": [
+      {
+        "label_id": 11,
+        "label_name": "Verified",
+        "label_color": "#32CD32"
+      },
+      {
+        "label_id": 12,
+        "label_name": "Suspicious",
+        "label_color": "#FF6347"
+      },
+      {
+        "label_id": 13,
+        "label_name": "Reconciled",
+        "label_color": "#4682B4"
+      }
+    ]
+  },
+  {
+    "label_type": "Outstanding_Level_Label",
+    "labels": [
+      {
+        "label_id": 14,
+        "label_name": "Overdue",
+        "label_color": "#FF0000"
+      },
+      {
+        "label_id": 15,
+        "label_name": "In Progress",
+        "label_color": "#FFA500"
+      },
+      {
+        "label_id": 16,
+        "label_name": "Completed",
+        "label_color": "#228B22"
+      }
+    ]
+  }
+]

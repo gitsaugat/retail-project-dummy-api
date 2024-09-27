@@ -1,0 +1,97 @@
+{
+  "matched_invoices": [
+    {
+      "account_code": "500004",
+      "account_name": "dummy name 1",
+      "total_invoice_amount_dc": 638.29,
+      "bank_details_amount_dc": -2830.17,
+      "dates": ["2024-09-15T00:00:00Z"],
+      "invoice_numbers": [23009076],
+      "paid_status": "Fully paid or overpaid"
+    },
+    {
+      "account_code": "10000028",
+      "account_name": "dummy name 2)",
+      "total_invoice_amount_dc": 1012.37,
+      "bank_details_amount_dc": -3370.23,
+      "dates": ["2024-09-15T00:00:00Z"],
+      "invoice_numbers": [23009079],
+      "paid_status": "Fully paid or overpaid"
+    },
+    {
+      "account_code": "50013",
+      "account_name": "dummy name 3",
+      "total_invoice_amount_dc": 776.78,
+      "bank_details_amount_dc": -899.61,
+      "dates": ["2024-09-15T00:00:00Z"],
+      "invoice_numbers": [23009053],
+      "paid_status": "Fully paid or overpaid"
+    },
+    {
+      "account_code": "50021",
+      "account_name": "dummy name 4",
+      "total_invoice_amount_dc": 250.84,
+      "bank_details_amount_dc": -522.71,
+      "dates": ["2024-09-15T00:00:00Z"],
+      "invoice_numbers": [23009058],
+      "paid_status": "Fully paid or overpaid"
+    },
+    {
+      "account_code": "50001",
+      "account_name": "dummy name 5",
+      "total_invoice_amount_dc": 504.31,
+      "bank_details_amount_dc": -560.41,
+      "dates": ["2024-09-15T00:00:00Z"],
+      "invoice_numbers": [23009051],
+      "paid_status": "Fully paid or overpaid"
+    },
+    {
+      "account_code": "10000011",
+      "account_name": "dummy name 6",
+      "total_invoice_amount_dc": 713.92,
+      "bank_details_amount_dc": -663.97,
+      "dates": ["2024-09-15T00:00:00Z"],
+      "invoice_numbers": [23009078],
+      "paid_status": "Paid less by 7.00%"
+    },
+    {
+      "account_code": "10248",
+      "account_name": "dummy name 7",
+      "total_invoice_amount_dc": 796.34,
+      "bank_details_amount_dc": -777.7800000000001,
+      "dates": ["2024-09-15T00:00:00Z"],
+      "invoice_numbers": [23009047],
+      "paid_status": "Paid less by 2.33%"
+    }
+  ],
+  "unmatched_invoices": [
+    {
+      "account_code": "10109",
+      "account_name": "dummy name 8",
+      "date": "2024-09-15T00:00:00Z",
+      "amount_dc": 1126.53,
+      "invoice_number": 23009030
+    },
+    {
+      "account_code": "50045",
+      "account_name": "dummy name 9",
+      "date": "2024-09-15T00:00:00Z",
+      "amount_dc": 1925.62,
+      "invoice_number": 23009019
+    },
+    {
+      "account_code": "10132",
+      "account_name": "dummy name 10",
+      "date": "2024-09-15T00:00:00Z",
+      "amount_dc": 258.49,
+      "invoice_number": 23009036
+    },
+    {
+      "account_code": "10223",
+      "account_name": "dummy name 11",
+      "date": "2024-09-15T00:00:00Z",
+      "amount_dc": -114.83,
+      "invoice_number": 23009044
+    }
+  ]
+}

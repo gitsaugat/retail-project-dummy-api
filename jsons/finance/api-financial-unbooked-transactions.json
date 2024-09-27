@@ -1,0 +1,51 @@
+[
+  {
+    "account_code": "500004",
+    "account_name": "dummy name 1",
+    "amount": -713.92,
+    "entry_number": 24010249,
+    "date": "2024-09-17T00:00:00Z"
+  },
+  {
+    "account_code": "500004",
+    "account_name": "dummy name 1",
+    "amount": -190.61,
+    "entry_number": 24010102,
+    "date": "2024-04-15T00:00:00Z"
+  },
+  {
+    "account_code": "10000028",
+    "account_name": "dummy name 2",
+    "amount": -70.48,
+    "entry_number": 520231335,
+    "date": "2023-04-17T00:00:00Z"
+  },
+  {
+    "account_code": "50013",
+    "account_name": "dummy name 3",
+    "amount": -67.11,
+    "entry_number": 23010023,
+    "date": "2023-06-02T00:00:00Z"
+  },
+  {
+    "account_code": "50021",
+    "account_name": "dummy name 4",
+    "amount": -8.83,
+    "entry_number": 520211208,
+    "date": "2021-05-27T00:00:00Z"
+  },
+  {
+    "account_code": "50001",
+    "account_name": "dummy name 5",
+    "amount": -1151.8,
+    "entry_number": 520222600,
+    "date": "2022-10-06T00:00:00Z"
+  },
+  {
+    "account_code": "10000011",
+    "account_name": "dummy name 6",
+    "amount": -218.19,
+    "entry_number": 24010244,
+    "date": "2024-09-11T00:00:00Z"
+  }
+]

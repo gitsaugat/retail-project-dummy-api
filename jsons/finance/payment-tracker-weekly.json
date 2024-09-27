@@ -1,0 +1,18 @@
+{
+  "Calculated_from_date": "2024-09-08",
+  "Calculated_till_date": "2024-09-15",
+  "total_unpaid_clients_count_last_week": 28,
+  "fully_paid_or_overpaid_count": 34,
+  "paid_but_not_fully_paid_count_last_week": 10,
+  "total_less_paid_buckets_counts_last_week": {
+    "<10%": 4,
+    "10-30%": 4,
+    "30-50%": 1,
+    "50-70%": 0,
+    "70%+": 1
+  },
+  "total_paid_clients_count_last_week": 44,
+  "total_Client_invoice_transactions_last_week": 72
+}
+
+

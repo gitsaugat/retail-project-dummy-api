@@ -1,0 +1,38 @@
+[
+  {
+    "transaction_id": "550e8400-e29b-41d4-a716-446655440000",
+    "invoice_number": 12345,
+    "amount_dc": 2500.75,
+    "date": "2024-09-22T14:30:00Z",
+    "entry_number": 1,
+    "remaining_to_be_booked_amount": 500.00,
+    "status": "booked"
+  },
+  {
+    "transaction_id": "6f1e7c00-a2b4-47cf-9f63-7e31ac993012",
+    "invoice_number": null,
+    "amount_dc": 1370.50,
+    "date": "2024-09-21T11:15:00Z",
+    "entry_number": 2,
+    "remaining_to_be_booked_amount": 370.50,
+    "status": "unbooked"
+  },
+  {
+    "transaction_id": "7892c9f0-6e13-4f83-92a3-b821bc14cbf4",
+    "invoice_number": 98765,
+    "amount_dc": 4520.10,
+    "date": "2024-09-20T09:45:00Z",
+    "entry_number": 3,
+    "remaining_to_be_booked_amount": 1520.10,
+    "status": "booked"
+  }
+]
+
+
+
+    
+    
+    
+    
+    
+    

@@ -1,0 +1,85 @@
+{
+  "outstanding_and_due": {
+    "account_code": "ACC12345",
+    "total_outstanding": 15000.75,
+    "outstanding_invoice_count": 5,
+    "overdue_amount": 3000.50,
+    "overdue_count": 2,
+    "overdue_buckets": {
+      "0_10_days": {
+        "count": 1,
+        "amount": 500.00
+      },
+      "11_20_days": {
+        "count": 1,
+        "amount": 800.00
+      },
+      "21_30_days": {
+        "count": 0,
+        "amount": 0.00
+      },
+      "31_60_days": {
+        "count": 0,
+        "amount": 0.00
+      },
+      "61_plus_days": {
+        "count": 1,
+        "amount": 1700.50
+      }
+    },
+    "total_unbooked_amount": 500.00,
+    "total_unbooked_count": 1
+  },
+  "financial_transactions": {
+    "account_code": "ACC12345",
+    "unique_ibans": [
+      {
+        "iban": "GB33BUKB20201555555555",
+        "last_used": "2023-09-10"
+      }
+    ],
+    "iban_count": 1,
+    "latest_invoice": {
+      "invoice_number": 456789,
+      "date": "2023-09-01",
+      "due_date": "2023-09-30"
+    },
+    "payment_term": "Net 30",
+    "unique_invoices_count": 10,
+    "total_invoice_value": 50000.00,
+    "yearly_invoice_data": [
+      {
+        "year": 2022,
+        "count": 8,
+        "total_invoice_value": 35000.00
+      },
+      {
+        "year": 2023,
+        "count": 2,
+        "total_invoice_value": 15000.00
+      }
+    ],
+    "unique_bank_transactions_count": 6,
+    "total_bank_transactions_value": 32000.00,
+    "yearly_bank_transactions_data": [
+      {
+        "year": 2022,
+        "count": 4,
+        "total_bank_transactions_value": 22000.00
+      },
+      {
+        "year": 2023,
+        "count": 2,
+        "total_bank_transactions_value": 10000.00
+      }
+    ],
+    "latest_transaction_date": "2023-09-10",
+    "latest_amount": 5000.00,
+    "oldest_outstanding_invoice": {
+      "invoice_number": 123456,
+      "invoice_date": "2023-06-01",
+      "remained_amount": 1500.00,
+      "original_invoice_amount": 3000.00
+    }
+  }
+}

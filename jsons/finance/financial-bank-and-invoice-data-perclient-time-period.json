@@ -1,0 +1,133 @@
+{
+  "account_code": "AC123456",
+  "yearly_data": [
+    {
+      "year": 2023,
+      "invoice_count": 120,
+      "total_invoice_value": 250000.75,
+      "bank_transaction_count": 80,
+      "total_bank_transaction_value": 245000.50
+    },
+    {
+      "year": 2022,
+      "invoice_count": 100,
+      "total_invoice_value": 200000.00,
+      "bank_transaction_count": 70,
+      "total_bank_transaction_value": 195000.25
+    },
+    {
+      "year": 2021,
+      "invoice_count": 90,
+      "total_invoice_value": 180000.50,
+      "bank_transaction_count": 65,
+      "total_bank_transaction_value": 175000.75
+    },
+    {
+      "year": 2020,
+      "invoice_count": 110,
+      "total_invoice_value": 220000.25,
+      "bank_transaction_count": 75,
+      "total_bank_transaction_value": 215000.00
+    }
+  ],
+  "monthly_data": [
+    {
+      "year": 2023,
+      "month": 9,
+      "invoice_count": 10,
+      "total_invoice_value": 25000.50,
+      "bank_transaction_count": 8,
+      "total_bank_transaction_value": 24500.75
+    },
+    {
+      "year": 2023,
+      "month": 8,
+      "invoice_count": 12,
+      "total_invoice_value": 30000.75,
+      "bank_transaction_count": 9,
+      "total_bank_transaction_value": 29500.00
+    },
+    {
+      "year": 2023,
+      "month": 7,
+      "invoice_count": 15,
+      "total_invoice_value": 35000.00,
+      "bank_transaction_count": 11,
+      "total_bank_transaction_value": 34500.50
+    },
+    {
+      "year": 2023,
+      "month": 6,
+      "invoice_count": 14,
+      "total_invoice_value": 34000.25,
+      "bank_transaction_count": 10,
+      "total_bank_transaction_value": 33500.75
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "invoice_count": 8,
+      "total_invoice_value": 20000.00,
+      "bank_transaction_count": 7,
+      "total_bank_transaction_value": 19800.00
+    },
+    {
+      "year": 2022,
+      "month": 11,
+      "invoice_count": 9,
+      "total_invoice_value": 22000.50,
+      "bank_transaction_count": 6,
+      "total_bank_transaction_value": 21500.25
+    }
+  ],
+  "weekly_data": [
+    {
+      "year": 2023,
+      "week": 37,
+      "invoice_count": 3,
+      "total_invoice_value": 7500.25,
+      "bank_transaction_count": 2,
+      "total_bank_transaction_value": 7450.00
+    },
+    {
+      "year": 2023,
+      "week": 36,
+      "invoice_count": 4,
+      "total_invoice_value": 10000.00,
+      "bank_transaction_count": 3,
+      "total_bank_transaction_value": 9950.50
+    },
+    {
+      "year": 2023,
+      "week": 35,
+      "invoice_count": 5,
+      "total_invoice_value": 12000.00,
+      "bank_transaction_count": 4,
+      "total_bank_transaction_value": 11500.25
+    },
+    {
+      "year": 2023,
+      "week": 34,
+      "invoice_count": 6,
+      "total_invoice_value": 15000.75,
+      "bank_transaction_count": 5,
+      "total_bank_transaction_value": 14800.50
+    },
+    {
+      "year": 2022,
+      "week": 52,
+      "invoice_count": 2,
+      "total_invoice_value": 5000.00,
+      "bank_transaction_count": 2,
+      "total_bank_transaction_value": 4950.00
+    },
+    {
+      "year": 2022,
+      "week": 51,
+      "invoice_count": 3,
+      "total_invoice_value": 7000.25,
+      "bank_transaction_count": 2,
+      "total_bank_transaction_value": 6950.50
+    }
+  ]
+}
